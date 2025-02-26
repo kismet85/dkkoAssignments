@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Up to date" />
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Up to date">
+      <change afterPath="$PROJECT_DIR$/Projekti/TE05 Mielen hyvinvointi oppiasteen ja sukupuolen mukaan 2013-.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dkkoAssignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dkkoAssignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_2_2025__9_11__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_2_2025__9_11__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_2_2025__9_08__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_2_2025__9_08__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentDataPreprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentDataPreprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekti/Lasten_ja_nuorten_hyvinvointi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/Lasten_ja_nuorten_hyvinvointi.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +56,9 @@
     &quot;accountId&quot;: &quot;6c7f10fe-a63a-461f-a00e-e1ba1309c4c4&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -58,14 +69,19 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Jan&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.48045978&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -73,8 +89,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="jdk-17.0.9-jbrsdk-17.0.9-4caba194b151-b614c381" />
+        <option value="jdk-21.0.2-graalvm-jdk-21.0.2-4caba194b151-eba82c24" />
       </set>
     </attachedChunks>
   </component>
@@ -107,6 +123,8 @@
       <workItem from="1738241029598" duration="2136000" />
       <workItem from="1738652505558" duration="631000" />
       <workItem from="1738653142759" duration="42000" />
+      <workItem from="1740579889006" duration="628000" />
+      <workItem from="1740580532083" duration="4055000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
