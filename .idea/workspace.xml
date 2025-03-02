@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Poistettu turhat datasetit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dkkoAssignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dkkoAssignments.iml" afterDir="false" />
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Poistettu lisää turhia datasettejä">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" afterDir="false" />
     </list>
@@ -36,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Jan" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,6 +63,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Excel (xlsx)&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -115,6 +114,10 @@
       <workItem from="1740587541604" duration="33000" />
       <workItem from="1740588876729" duration="3265000" />
       <workItem from="1740653481815" duration="7603000" />
+      <workItem from="1740749931546" duration="14607000" />
+      <workItem from="1740824743429" duration="1152000" />
+      <workItem from="1740825920643" duration="2945000" />
+      <workItem from="1740829999968" duration="473000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -207,7 +210,14 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1740659599462</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Poistettu lisää turhia datasettejä">
+      <option name="closed" value="true" />
+      <created>1740829557881</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1740829557881</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +245,7 @@
     <MESSAGE value="Up to date" />
     <MESSAGE value="uudet datasetit" />
     <MESSAGE value="Poistettu turhat datasetit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Poistettu turhat datasetit" />
+    <MESSAGE value="Poistettu lisää turhia datasettejä" />
+    <option name="LAST_COMMIT_MESSAGE" value="Poistettu lisää turhia datasettejä" />
   </component>
 </project>
