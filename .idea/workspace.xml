@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Poistettu lisää turhia datasettejä">
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Nyt vain yksi tiedosto, mikä siältää dailyactivities, dailyHeartrate ja dailysleep">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" afterDir="false" />
     </list>
@@ -77,8 +77,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -118,6 +118,8 @@
       <workItem from="1740824743429" duration="1152000" />
       <workItem from="1740825920643" duration="2945000" />
       <workItem from="1740829999968" duration="473000" />
+      <workItem from="1740941207812" duration="2487000" />
+      <workItem from="1740944585545" duration="5274000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
