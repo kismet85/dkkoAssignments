@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="StandardScaler">
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Käytetään vain kalorien määrää">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +128,7 @@
       <workItem from="1740944585545" duration="5274000" />
       <workItem from="1740996150678" duration="169000" />
       <workItem from="1741005047354" duration="8906000" />
-      <workItem from="1741022302945" duration="610000" />
+      <workItem from="1741022302945" duration="2037000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -248,7 +249,14 @@
       <option name="presentableId" value="LOCAL−00017" />
       <updated>1741021767202</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL−00018" summary="Käytetään vain kalorien määrää">
+      <option name="closed" value="true" />
+      <created>1741022958852</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1741022958853</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +287,7 @@
     <MESSAGE value="Poistettu lisää turhia datasettejä" />
     <MESSAGE value="Oma versio tuotu toisena notebookkina" />
     <MESSAGE value="StandardScaler" />
-    <option name="LAST_COMMIT_MESSAGE" value="StandardScaler" />
+    <MESSAGE value="Käytetään vain kalorien määrää" />
+    <option name="LAST_COMMIT_MESSAGE" value="Käytetään vain kalorien määrää" />
   </component>
 </project>
