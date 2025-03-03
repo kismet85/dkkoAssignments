@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Nyt vain yksi tiedosto, mikä siältää dailyactivities, dailyHeartrate ja dailysleep">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/Uni_ja_liikuntatottumukset.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Järjestelyä ja standardisointi." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
