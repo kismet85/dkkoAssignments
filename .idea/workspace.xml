@@ -126,7 +126,7 @@
       <workItem from="1740941207812" duration="2487000" />
       <workItem from="1740944585545" duration="5274000" />
       <workItem from="1740996150678" duration="169000" />
-      <workItem from="1741005047354" duration="7899000" />
+      <workItem from="1741005047354" duration="8794000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -233,7 +233,14 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1740996252235</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL−00016" summary="Oma versio tuotu toisena notebookkina">
+      <option name="closed" value="true" />
+      <created>1741021078944</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1741021078944</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
