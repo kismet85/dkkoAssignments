@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Vähän yhdistelin tietoja">
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="pää hajos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" afterDir="false" />
     </list>
@@ -127,7 +127,8 @@
       <workItem from="1740944585545" duration="5274000" />
       <workItem from="1740996150678" duration="169000" />
       <workItem from="1741005047354" duration="8906000" />
-      <workItem from="1741022302945" duration="3769000" />
+      <workItem from="1741022302945" duration="4041000" />
+      <workItem from="1741068109600" duration="4845000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -262,7 +263,14 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1741032913371</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="pää hajos">
+      <option name="closed" value="true" />
+      <created>1741034107978</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1741034107978</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +303,7 @@
     <MESSAGE value="StandardScaler" />
     <MESSAGE value="Käytetään vain kalorien määrää" />
     <MESSAGE value="Vähän yhdistelin tietoja" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vähän yhdistelin tietoja" />
+    <MESSAGE value="pää hajos" />
+    <option name="LAST_COMMIT_MESSAGE" value="pää hajos" />
   </component>
 </project>
