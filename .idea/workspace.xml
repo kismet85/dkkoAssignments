@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="pää hajos">
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Nimi muutettu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/JaninVersio.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekti/FinalVersio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/FinalVersio.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <workItem from="1740996150678" duration="169000" />
       <workItem from="1741005047354" duration="8906000" />
       <workItem from="1741022302945" duration="4041000" />
-      <workItem from="1741068109600" duration="4845000" />
+      <workItem from="1741068109600" duration="7841000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -270,7 +270,21 @@
       <option name="presentableId" value="LOCAL−00020" />
       <updated>1741034107978</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL−00021" summary="pää hajos">
+      <option name="closed" value="true" />
+      <created>1741073214582</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1741073214582</updated>
+    </task>
+    <task id="LOCAL−00022" summary="Nimi muutettu">
+      <option name="closed" value="true" />
+      <created>1741073252818</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1741073252818</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +318,7 @@
     <MESSAGE value="Käytetään vain kalorien määrää" />
     <MESSAGE value="Vähän yhdistelin tietoja" />
     <MESSAGE value="pää hajos" />
-    <option name="LAST_COMMIT_MESSAGE" value="pää hajos" />
+    <MESSAGE value="Nimi muutettu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nimi muutettu" />
   </component>
 </project>
