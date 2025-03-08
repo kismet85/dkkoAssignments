@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="Nimi muutettu">
+    <list default="true" id="92913a94-8ff5-4cb1-a16c-ebd642838744" name="Changes" comment="joo o">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projekti/FinalVersio.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projekti/FinalVersio.ipynb" afterDir="false" />
     </list>
@@ -128,7 +128,9 @@
       <workItem from="1740996150678" duration="169000" />
       <workItem from="1741005047354" duration="8906000" />
       <workItem from="1741022302945" duration="4041000" />
-      <workItem from="1741068109600" duration="7841000" />
+      <workItem from="1741068109600" duration="8248000" />
+      <workItem from="1741351717557" duration="62000" />
+      <workItem from="1741424951464" duration="6361000" />
     </task>
     <task id="LOCAL−00001" summary="Tein histogrammiin asti">
       <option name="closed" value="true" />
@@ -284,7 +286,14 @@
       <option name="presentableId" value="LOCAL−00022" />
       <updated>1741073252818</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL−00023" summary="joo o">
+      <option name="closed" value="true" />
+      <created>1741076466955</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1741076466955</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +328,7 @@
     <MESSAGE value="Vähän yhdistelin tietoja" />
     <MESSAGE value="pää hajos" />
     <MESSAGE value="Nimi muutettu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nimi muutettu" />
+    <MESSAGE value="joo o" />
+    <option name="LAST_COMMIT_MESSAGE" value="joo o" />
   </component>
 </project>
